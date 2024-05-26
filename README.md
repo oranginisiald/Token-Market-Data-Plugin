@@ -13,7 +13,8 @@ extism call tokenmarketdata.wasm run --input='{"chainId":0,"tokenContractAddress
 ```
 
 Replace `0` with the chain ID you want to query, and `b61b0172d95e266c18aea0c624db987e971a5d6d4ebc2aaed85da4642d635735i0` with the token contract address you want to query.
-For supported chain, and chain ID refer to this https://www.oklink.com/docs/en/#market-data-supported-chains
+
+For the supported chain and its chain ID list check [chainlist.md](https://github.com/oranginisiald/Token-Market-Data-Plugin/blob/main/chainlist.md).
 
 ## API Key
 
